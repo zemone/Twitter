@@ -129,5 +129,5 @@ dmypy.json
 .pyre/
 
 # API credentials
-male_credentials.py
+make_credentials.py
 twitter_credentials.json
